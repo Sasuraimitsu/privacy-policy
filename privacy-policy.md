@@ -30,4 +30,10 @@
 
 本件に関するお問い合わせは、アクレダ銀行開設サポートLINEまで宜しくお願い致します。
 
+
+
+
+
+
+
 <img src="qr-lineofficial.png" alt="QRコード" width="200" height="200">
